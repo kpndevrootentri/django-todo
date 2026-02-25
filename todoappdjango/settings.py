@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-iu2$aqt!6-tyx36^fc*vq20ti-d1z99(kw$0*v2s1(*3q6n07y
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['django-todo-app.app.ayile.in']
 
 
 # Application definition
